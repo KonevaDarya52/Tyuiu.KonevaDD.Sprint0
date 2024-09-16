@@ -1,7 +1,7 @@
 ﻿using System.Reflection.Metadata.Ecma335;
 using System.Security.Principal;
 
-namespace Tyuiu.KonevaDD.Sprint0.Task6.V0.Lib
+namespace Tyuiu.KonevaDD.Sprint0.Task6.V0.Lib 
 {
     public class DataService
     {

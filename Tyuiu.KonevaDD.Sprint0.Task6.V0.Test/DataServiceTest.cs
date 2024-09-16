@@ -1,7 +1,5 @@
 using Tyuiu.KonevaDD.Sprint0.Task6.V0.Lib;
 
-  
-
 namespace Tyuiu.KonevaDD.Sprint0.Task6.V0.Test
 {
     [TestClass]
